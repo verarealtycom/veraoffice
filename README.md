@@ -1,2 +1,5 @@
-# veraoffice
+# Vera Office
+
+---
+
 Office application for real estate brokers in the USA
